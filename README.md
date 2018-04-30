@@ -21,7 +21,7 @@ Steps
 #### Stationary
 - Visually inspect for recognizable patterns, such as trends, seasonal patterns or other cyclic components (data smoothing to see trends)
 - Stationary time series are a lot easier to model. Eliminate trend and seasonal aspect of data. 
-- One way to get rid of trend-fit a regression model. 
+- One way to get rid of trend is to fit a regression model. 
 - Get rid of non-time stationary variance by a log transformation of the data.
 #### Model selection
 - Understand if the data is stationary meaning mean, variance, covariance does not change considerable with time. 
